@@ -1,5 +1,5 @@
 ======
-Rajesh Devils's Django
+Django
 ======
 
 Django is a high-level Python web framework that encourages rapid development
